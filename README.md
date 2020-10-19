@@ -6,4 +6,5 @@ Prototype #2 : Stock Prediction Model using Tensorflow's Keras and LSTM Shells. 
 
 Future Plans
 - Multiple Layers
-- 
+- Global News Data 
+
